@@ -1,5 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <!-- Coolors.co -->
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+
+    <!-- Red Scheme -->
+    <color name="cardinal">#C41E3D</color>
+    <color name="burgundy">#7D1128</color>
+    <color name="folly">#FF2C55</color>
+    <color name="chocolate_cosmos">#3C0919</color>
+    <color name="amaranth">#E2294F</color>
+
+
+
 </resources>
